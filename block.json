@@ -1,0 +1,10 @@
+{
+	"apiVersion": 2,
+	"name": "swd/current-year-block",
+	"title": "Current Year Block",
+	"category": "text",
+	"icon": "calendar",
+	"description": "Block to display current year, with editable prefix and suffix. Suitable for copyright notices.",
+	"textdomain": "current-year-block",
+	"editorScript": "file:./src/index.js"
+}
