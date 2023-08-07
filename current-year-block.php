@@ -11,7 +11,7 @@
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       current-year-block
  *
- * @package           create-block
+ * @package           current-year-block
  */
 
 function create_block_editable_copyright_block_init() {

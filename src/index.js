@@ -6,7 +6,7 @@ import "./style.scss";
 import Edit from "./edit";
 import save from "./save";
 
-registerBlockType("swd/current-year-block", {
+registerBlockType("sidewaysdesign/current-year-block", {
 	title: __("Current Year Block"),
 	keywords: [__("copyright"), __("legal"), __("year")],
 	category: "widgets",

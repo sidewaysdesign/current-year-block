@@ -65,19 +65,19 @@ export default function Edit({ attributes, setAttributes }) {
 				</ToolbarGroup>
 			</BlockControls>
 			<InspectorControls>
-				<PanelBody title={__("Display Options", "swd")}>
+				<PanelBody title={__("Display Options", "sidewaysdesign")}>
 					<CheckboxControl
-						label={__("Show Prefix", "swd")}
+						label={__("Show Prefix", "sidewaysdesign")}
 						checked={!!prefix}
 						onChange={handlePrefixToggle}
 					/>
 					<CheckboxControl
-						label={__("Show Suffix", "swd")}
+						label={__("Show Suffix", "sidewaysdesign")}
 						checked={!!suffix}
 						onChange={handleSuffixToggle}
 					/>
 					<SelectControl
-						label={__("HTML Element", "swd")}
+						label={__("HTML Element", "sidewaysdesign")}
 						value={htmlTag}
 						options={[
 							{ label: __("<p>"), value: "p" },

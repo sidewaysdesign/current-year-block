@@ -1,7 +1,7 @@
 {
   "$schema": "https://schemas.wp.org/trunk/block.json",
   "apiVersion": 2,
-  "name": "create-block/current-year-block",
+  "name": "sidewaysdesign/current-year-block",
   "version": "1.2.0",
   "title": "Current Year Block",
   "category": "widgets",
